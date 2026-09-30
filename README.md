@@ -85,15 +85,13 @@ Beyond academia, I have developed a keen interest in **software engineering — 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afrin2326&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afrin2326&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=afrin2326&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=afrin2326&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrin2326&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=afrin2326&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </p>
-
----
 
 <div align="center">
 
