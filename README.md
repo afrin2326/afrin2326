@@ -11,7 +11,7 @@
 
   <!-- Quick Action Badges -->
   <p align="center">
-  <a href="[https://e-portal-p4pbrnlfy-afrin2326.vercel.app/](https://e-portal-kohl.vercel.app/)" target="_blank">
+  <a href="https://e-portal-kohl.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/afrin-binte-amin-48a52b417" target="_blank">
